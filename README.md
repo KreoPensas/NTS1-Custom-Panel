@@ -2,6 +2,8 @@
 
 Work in progress for a custom panel for Korg NTS-1 Programmable Synthesizer. Use at your own risk, no liabilities assumed. 
 
+At this time the code is simply a stub that tests the encoders, display, and EEPROM ( 24LC512 Microchip Technologies, also can use the 24LC1025 or 24LC256) 
+
 This code is being developed on an STMicroelectronics STM32F0308-Discovery evaluation board... which is a discontinued item.
 
 It has been succesfully flashed and run on a STM32F051R8T6 discobvery board which is currently available from ST Microelectronics.  https://estore.st.com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-discovery-kits/stm32f0discovery.html
