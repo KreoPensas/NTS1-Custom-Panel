@@ -6,7 +6,7 @@ At this time the code is simply a stub that tests the encoders, display, and EEP
 
 This code is being developed on an STMicroelectronics STM32F0308-Discovery evaluation board... which is a discontinued item.
 
-It has been succesfully flashed and run on a STM32F051R8T6 discobvery board which is currently available from ST Microelectronics.  https://estore.st.com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-discovery-kits/stm32f0discovery.html
+It has been succesfully flashed and run on a STM32F051R8T6 discovery board which is currently available from ST Microelectronics.  https://estore.st.com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-discovery-kits/stm32f0discovery.html
 
 The display is a common .96" i2c OLED SSD1306 64 x 128 pixel unit. The default address for these varies, so check yours with an i2c scanning sketch, requires the display library from https://github.com/adafruit/Adafruit_SSD1306
 
